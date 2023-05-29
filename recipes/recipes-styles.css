@@ -1,0 +1,50 @@
+/* Bulgogi part */
+#bulgogi-title {
+    font-family: "Brush Script MT", cursive;
+    font-size: 70px;
+    color: #ff4500;
+}
+
+
+.ingredients, 
+.bulgogi-presentation,
+.bulgogi-instruction,
+.bulgogi-list-instruction {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
+}
+
+/* Spicy green salad part */
+#spicy-title {
+    font-family: "Brush Script MT", cursive;
+    font-size: 70px;
+    color: #008000;
+}
+
+
+.spicy-ingredients, 
+.spicy-presentation,
+.spicy-instruction,
+.spicy-list-instruction {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
+}
+
+/* Dalgona part*/
+#dalgona-title {
+    font-family: "Brush Script MT", cursive;
+    font-size: 70px;
+    color: #deb887;
+}
+
+
+.dalgona-ingredients, 
+.dalgona-presentation,
+.dalgona-instruction,
+.dalgona-list-instruction {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
+}
